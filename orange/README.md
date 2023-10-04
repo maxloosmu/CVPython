@@ -30,4 +30,4 @@ This is based on running `config /all` in my command prompt, where part of the o
 - pip install -r requirements.txt
 - python3 drawshapes.py
 
-On Windows 10, I had to turn off both the private and public firewalls to get `python3 drawshapes.py` to show the image output in a separate window.  
+On Windows 10, I have to turn off the Windows Defender public network firewall to get `python3 drawshapes.py` to show the image output in a separate window.  
